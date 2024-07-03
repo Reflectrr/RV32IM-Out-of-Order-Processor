@@ -15,5 +15,7 @@ In addition, we added a series of advanced features to boost the performance fur
 
 The processor can be run at 444 MHz with an area of 197753 μm^2 and an average of 35 mW power usage.
 
+![Block diagram of our processor](./block_diagram.drawio.png)
+
 ## Credit
 I want to thank my teammates Albert Wang and Cameron Choy. This project wouldn't be possible without them. Together we created this spectacular processor.
