@@ -7,7 +7,7 @@ This repo contains our design of an out-of-order RISC-V processor using Tomasulo
 - Reorder Buffer
 
 In addition, we added a series of advanced features to boost the performance further:
-- banked memory
+- Banked Memory with Instruction/Data-Cache Subsystem
 - GShare Branch Predictor
 - Dadda Multiplier
 - Memory Disambiguation (out-of-order load/in-order store)
